@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development and Cyber Security**
 
-- 👨‍💻 All of my projects are available at [aayushpatel.000.pe](aayushpatel.000.pe)(Domain is Temporarily Down)
+- 👨‍💻 All of my projects are available at [aayushpatel.000.pe](aayushpatel.000.pe)(Sorry! My Domain is Temporarily Down)
 
 - 📫 How to reach me **patelaayush788@gmail.com**
 
