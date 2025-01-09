@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Web Development and Cyber Security**
 
 - 👨‍💻 All of my projects are available at [aayushpatel.000.pe](aayushpatel.000.pe)(Sorry! My Domain is Temporarily Down)
+- you can still access my WebShell on https://aayush-shell.vercel.app/
 
 - 📫 How to reach me **patelaayush788@gmail.com**
 
