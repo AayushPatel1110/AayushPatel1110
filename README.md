@@ -19,5 +19,3 @@
 <a href="https://www.leetcode.com/aayush1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayush1110" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://gxithub-readme-stats.vercel.app/api/top-langs?username=aayushpatel1110&show_icons=true&locale=en&layout=compact" alt="aayushpatel1110" /></p>
